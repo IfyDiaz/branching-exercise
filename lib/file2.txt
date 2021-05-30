@@ -1,0 +1,3 @@
+This command tells us that our working tree is clean even though we’ve made changes to our remote repository. There is no message to tell us that our local repository is different to our remote repository.
+
+This is because we have not told Git to compare our local repository to our remote repository. This occurred because we did not clone our repository. We initialized a new repository and pulled the contents from an existing repository to our local machine.
