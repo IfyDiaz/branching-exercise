@@ -3,3 +3,5 @@ Linux provides a utility to manage our emails from the command line itself. The 
 To take advantage of this command, we need to install a package named 'mailutils'. It can be done by:
 
 One thing that must be kept in mind is that, 'mailutils' allows us to connect to a local SMTP (Simple Mail Transfer Protocol) server. Therefore, we can not expect sending mails to an external domain like 'gmail.com' or 'yahoo.com'.
+
+Better said then done
